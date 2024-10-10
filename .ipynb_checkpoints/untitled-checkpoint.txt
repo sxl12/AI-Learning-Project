@@ -1,0 +1,3 @@
+ 审核层 moderation 
+func_call
+https://platform.openai.com/docs/api-reference/audio/createTranslation
