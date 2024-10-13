@@ -20,3 +20,5 @@ Role-Play
 运行项目
 在 Role-Play/chat 目录下运行
 python start_chat.py
+
+![role_playdemo](https://github.com/user-attachments/assets/643e0f22-05cb-491c-80fd-5c81cdbe528f)
